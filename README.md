@@ -1,5 +1,6 @@
 
 # 🏠 Real Estate Analytics Dashboard — Power BI
+![property-price-appreciation](https://github.com/user-attachments/assets/77597404-f5d6-4fe4-a2f2-1636241176cb)
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-F2C811?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
