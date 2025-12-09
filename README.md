@@ -125,7 +125,7 @@ Agents ↔ Offices
 ### 1️⃣ Download the Repository
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+(https://github.com/ashwinshende1603/Real-Estate-Analytics-Dashboard/tree/main)
 ```
 
 ### 2️⃣ Install Power BI Desktop
