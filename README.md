@@ -34,19 +34,10 @@ A professional Power BI template designed for analyzing property valuations, lis
 - Support market, agent, and property performance analysis.
 
 ---
-## 🖼️ Screenshots
-Add your real dashboard images in the repository under a `/screenshots` folder.
+## Dashboard Preview
 
-```text
-📌 Market Analysis Dashboard
-![Dashboard Page 1](screenshots/market_analysis.png)
+<img width="957" height="718" alt="DASHBOARD 11" src="https://github.com/user-attachments/assets/c3452b15-a0ba-43ac-837e-9f75998c315d" />
 
-📌 Agent Insights Dashboard
-![Dashboard Page 2](screenshots/agent_insights.png)
-
-📌 Neighborhood Intelligence Dashboard
-![Dashboard Page 3](screenshots/neighborhood.png)
-````
 
 ---
 
