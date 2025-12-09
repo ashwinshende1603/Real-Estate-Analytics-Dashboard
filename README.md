@@ -34,7 +34,7 @@ A professional Power BI template designed for analyzing property valuations, lis
 - Support market, agent, and property performance analysis.
 
 ---
-## Dashboard Preview
+## 📈 Performance Insights Snapshot
 
 ###  Property Overview & Pricing
 
