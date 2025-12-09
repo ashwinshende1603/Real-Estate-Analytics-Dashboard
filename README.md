@@ -346,38 +346,6 @@ Agents ↔ Offices
 
 ---
 
-## 📊 Dashboard Pages & Visual Explanations
-
-### 🔹 Market Analysis Page
-
-* Market value by region
-* Average listing price by type
-* Scatter: Listed Price vs Market Value
-
-### 🔹 Agent Performance Page
-
-* Agent count by region
-* Experience distribution
-
-### 🔹 Office Insights Page
-
-* Office count by city
-* Managers distribution
-* Established year trend
-
-### 🔹 Neighborhood Intelligence Page
-
-* School rating by city
-* Property count by neighborhood
-* Market value comparison
-
-### 🔹 Owner Overview Page
-
-* Owners by city
-* Ownership distribution
-
----
-
 ## ⚙️ Installation & Setup Steps
 
 ### 1️⃣ Download the Repository
