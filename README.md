@@ -38,33 +38,43 @@ A professional Power BI template designed for analyzing property valuations, lis
 
 <img width="857" height="617" alt="Dashboard 1" src="https://github.com/user-attachments/assets/292ff77f-7c72-408d-aa56-98ceb13e79a6" />
 
+---
 
 <img width="857" height="617" alt="Dashboard 2" src="https://github.com/user-attachments/assets/0eef6a73-3dce-4776-b3c4-65f39b4842f4" />
 
+---
 
 <img width="857" height="617" alt="Dashboard 3" src="https://github.com/user-attachments/assets/13cc36ae-5f91-48e8-a9aa-8e32f4e4877e" />
 
+---
 
 <img width="857" height="617" alt="DASHBOARD 4" src="https://github.com/user-attachments/assets/67414ef8-095c-4c05-9bb4-499136568ae4" />
 
+---
 
 <img width="857" height="617" alt="DASHBOARD 5" src="https://github.com/user-attachments/assets/954cc57b-23d1-4641-8092-66f34737cc86" />
 
+---
 
 <img width="857" height="617" alt="DASHBOARD 6" src="https://github.com/user-attachments/assets/d64f5bf7-edf6-4529-9ad1-e1c3a2b64eea" />
 
+---
 
 <img width="857" height="617" alt="DASHBOARD 7" src="https://github.com/user-attachments/assets/87fb983e-8f5e-42ad-bbf0-65da41bc635f" />
 
+---
 
 <img width="857" height="617" alt="DASHBOARD 8" src="https://github.com/user-attachments/assets/f04a060b-52f3-4c83-a45a-4d3f978aa3cf" />
 
+---
 
 <img width="857" height="617" alt="DASHBOARD 9" src="https://github.com/user-attachments/assets/cc883594-797b-4ace-a9b2-fcbb62c32914" />
 
+---
 
 <img width="857" height="617" alt="DASHBOARD 10" src="https://github.com/user-attachments/assets/4aec36e9-d8c4-46c8-afc7-29456f48fa9f" />
 
+---
 
 <img width="857" height="617" alt="DASHBOARD 11" src="https://github.com/user-attachments/assets/7f91b1b2-da06-4bd1-97f2-77e5d55d1493" />
 
