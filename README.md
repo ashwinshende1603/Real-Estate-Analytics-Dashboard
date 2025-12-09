@@ -166,6 +166,7 @@ Click **Refresh** to populate visuals.
 ---
 
 ## 📘 Technologies Used
+![images](https://github.com/user-attachments/assets/1bb1e9e2-af9a-48cf-aca2-af2e4b4ffed2)
 
 * Power BI Desktop
 * DAX
@@ -196,7 +197,3 @@ MIT License.
 
 ---
 
-## ⭐ If you find this helpful, please ⭐ star the repository!
-
-```
-```
